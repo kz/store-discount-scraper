@@ -18,10 +18,7 @@ There are three main components:
 
 ##To-Do
 
-* main.py
-    * Create basic user prompt for mod_madecom.
 * mod_madecom.py
-    * Create regex to index sale pages.
     * Use lxml to scrape sale data.
     * Import data into database.
 * database.py
