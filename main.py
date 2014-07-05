@@ -1,11 +1,10 @@
 # Configuration #
+modules_list = ['madecom']
+# End Configuration #
 
 # Import user-created modules.
-import mod_madecom
-# Configure list of modules' functions.
-modules_list = ['madecom']
-
-# End Configuration #
+for module in modules_list:
+    exec('import mod_{0}'.format(module))
 
 # Prompt for user input.
 while True:
@@ -19,4 +18,3 @@ while True:
         result = eval('mod_{0}.{0}()'.format(modules_list[option]))
         print(result)
         break
-
