@@ -1,6 +1,8 @@
 # store-discount-scraper
 
-##Overview
+## Overview
+
+### Project Status: On Hold
 
 This is a Python project (assigned by @wy) to scrape sale items from online stores for exporting to a database. This has been designed in a modular way to make it easy to add/modify modules.
 
