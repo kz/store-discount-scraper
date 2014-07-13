@@ -1,4 +1,7 @@
-# store-discount-scraper - Status: On Hold
+# store-discount-scraper
+
+## Project Status
+This project is on hold indefinitely in order to work on other projects.
 
 ## Overview
 
