@@ -1,7 +1,7 @@
 # store-discount-scraper
 
 ## Project Status
-This project is on hold indefinitely in order to work on other projects.
+This project is cancelled so I can work on other projects.
 
 ## Overview
 
